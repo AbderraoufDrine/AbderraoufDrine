@@ -1,5 +1,13 @@
-# 💫 About Me:
-Hey, It is Abderraouf 🚀<br><br>I am an aspiring, passionate and ambitious software developer<br><br>💻 You can see my projects here<br>🧰 Get a whiff of my experience @
+<p align="center>
+          <h1>Hey, It is Abderraouf 🚀</h1>
+</p>
+<br><br>I am an aspiring, passionate and ambitious software developer
+<br>
+<br>
+💻 You can see my projects here
+[portfolio] (https://abderraoufportfolio.netlify.app)
+<br>
+🧰 Get a whiff of my experience @ [CV]
 
 
 ## 🌐 Socials:
