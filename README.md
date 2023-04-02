@@ -1,13 +1,9 @@
-<p align="center>
-          <h1>Hey, It is Abderraouf 🚀</h1>
-</p>
-<br><br>I am an aspiring, passionate and ambitious software developer
+<h1 align="center">Hey, It is Abderraouf 🚀</h1>
+<h3 align="center">I am an aspiring, passionate and ambitious software developer</h3>
 <br>
+💻 You can see my projects here in my <a href="https://abderraoufportfolio.netlify.app/"> portfolio</a>
 <br>
-💻 You can see my projects here
-[portfolio] (https://abderraoufportfolio.netlify.app)
-<br>
-🧰 Get a whiff of my experience @ [CV]
+🧰 Get a whiff of my <a href="https://drive.google.com/file/d/1BFgf2dMvXKWfP-Tf3cJBb8pPM_e02ZoC/view?usp=share_link">experience</a>
 
 
 ## 🌐 Socials:
