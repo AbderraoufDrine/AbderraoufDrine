@@ -19,4 +19,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/AbderraoufDrine)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
