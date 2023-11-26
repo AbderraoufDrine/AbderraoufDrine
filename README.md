@@ -3,8 +3,6 @@
 <br>
 💻 You can see my projects here in my <a href="https://abderraoufportfolio.netlify.app/"> portfolio</a>
 <br>
-🧰 Get a whiff of my <a href="https://drive.google.com/file/d/1BFgf2dMvXKWfP-Tf3cJBb8pPM_e02ZoC/view?usp=share_link](https://drive.google.com/file/d/16tZGFDjJUL24CmzrPa1xjmGUErCJGYmW/view?usp=drive_link)">experience</a>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abderraoufdrine) 
